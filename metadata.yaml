@@ -1,0 +1,31 @@
+_repo: Morristown-National-Historical-Park-a-Military-Capital-of-the-American-Revolution_62651
+_version: 0.0.1
+alternative_title: 'Morristown: a military capital of the American Revolution'
+contributor:
+  contributor:
+    agent_name: Craig, Vera B.
+    gutenberg_agent_id: '52060'
+    url: http://www.gutenberg.org/2009/agents/52060
+creator:
+  author:
+    agent_name: Weig, Melvin J.
+    gutenberg_agent_id: '52059'
+    url: http://www.gutenberg.org/2009/agents/52059
+description: ''
+gutenberg_issued: '2020-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62651'
+  lccn: '51060222'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: National Park Service Historical Handbook Series, No. 7
+subjects:
+- !lcsh 'New Jersey -- History -- Revolution, 1775-1783'
+- !lcc 'F106'
+- !lcsh 'Morristown National Historical Park (N.J.)'
+- GITenberg
+title: Morristown National Historical Park, a Military Capital of the American Revolution
+url: http://www.gutenberg.org/ebooks/62651
